@@ -1,0 +1,48 @@
+/* streamlit styles */
+.block-container {
+    height: 100vh;
+    padding: 1rem 2rem;
+}
+
+/* graph and diagnosis container */
+.st-emotion-cache-1987oog > div:nth-child(1) { /* replace */
+    height: 100%;
+    padding: 0;
+}
+
+/* make chart full height */
+div.user-select-none.svg-container div { /* replace */
+    height: 100% !important;
+    padding: 0 !important;
+}
+
+/* diagnosis box */
+.st-emotion-cache-1d3bz57 { /* replace */
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #7E99AB;
+}
+
+/* sidebar */
+.st-emotion-cache-16txtl3 { /* replace */
+    padding-top: 1.5rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+.diagnosis {
+    color: #fff;
+
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.diagnosis.malicious {
+    background-color: rgb(255, 75, 75);
+}
+.diagnosis.benign {
+    background-color: #01DB4B;
+    color: #000;
+}
