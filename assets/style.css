@@ -1,4 +1,8 @@
 /* streamlit styles */
+body {
+    background-color: #0F1016;
+}
+
 .block-container {
     height: 100vh;
     padding: 1rem 2rem;
