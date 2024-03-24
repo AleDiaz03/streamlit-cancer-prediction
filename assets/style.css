@@ -11,20 +11,26 @@
 }
 
 /* make chart full height */
-div.user-select-none.svg-container div { /* replace */
+div.st-emotion-cache-9aoz2h div { /* replace */
     height: 100% !important;
     padding: 0 !important;
 }
 
+.polar { /* replace */
+    height: 100% !important;
+    padding: 0 !important;
+}
+
+
 /* diagnosis box */
-.st-emotion-cache-1d3bz57 { /* replace */
+.st-emotion-cache-j5r0tf{ /* replace */
     padding: 1rem;
     border-radius: 0.5rem;
     background-color: #7E99AB;
 }
 
 /* sidebar */
-.st-emotion-cache-16txtl3 { /* replace */
+.st-emotion-cache-16txtl3 { /* replace */ 
     padding-top: 1.5rem;
 }
 
